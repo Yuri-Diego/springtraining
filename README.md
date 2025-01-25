@@ -41,7 +41,7 @@ O projeto segue a arquitetura **MVC** (Model-View-Controller) e está organizado
 1. **Clone o repositório:**
    ```bash
    git clone https://github.com/Yuri-Diego/springtraining.git
-   cd sua-repositorio
+   cd repositorio-clonado
    ```
 
 2. **Compile o projeto com Maven:**
